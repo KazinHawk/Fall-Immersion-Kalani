@@ -1,3 +1,3 @@
-function eventHandling() {
-    // Your code here.
-}
+document.getElementById("myButton").addEventListener("click", function() {
+    alert("jump kalani >:)");
+});
